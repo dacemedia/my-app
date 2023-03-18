@@ -1,12 +1,6 @@
-# AI Translator
+# Lets Translate
 
 This project translates any text and audio for you using AI.
-
-![AI Translator](./public/transcribe.png)
-
-## How it works
-
-This project uses OpenAI's advanced AI technologies, including the GPT-3 API and Whisper API, to provide fast and accurate translations. The Translate Text component generates translations based on user input, while the Translate Audio component transcribes audio to text and translates it to any language. This tool is perfect for anyone looking to communicate across language barriers, making language learning and international communication easier than ever before.
 
 ## Running Locally
 
@@ -22,4 +16,4 @@ npm run dev
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/umerarif01/ai-translator&env=OPENAI_API_KEY&project-name=ai-translator&repo-name=ai-translator)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/dacemedia/my-app&env=OPENAI_API_KEY&project-name=my-app&repo-name=my-app)
