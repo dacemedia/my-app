@@ -2,7 +2,7 @@
 
 This project translates any text and audio for you using AI.
 
-![AI Translator](./public/screenshot.png)
+![AI Translator](./public/transcribe.png)
 
 ## How it works
 
